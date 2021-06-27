@@ -1,0 +1,28 @@
+body{background: pink;
+font-family: Serif,Times;
+font-size: 20px;
+color: blue;}
+
+h1,h2,h4{color: red;
+font-family: helvetica,sans-serif;}
+
+h1{ border: dashed 2px red;
+background: orange;
+font-size: 2em;
+padding: 10px;}
+
+p{font-size: 30px;
+color: green;
+font-style: italic;}
+
+strong{font-size:40px;
+color: blue;
+}
+
+a{ color: green;}
+
+ol{border: solid 10px white;
+padding: 40px;
+font-size: 25px;
+margin: 3% 0;
+background: #ffcc33;}

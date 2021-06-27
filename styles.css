@@ -1,0 +1,13 @@
+body{background-color: yellow;
+font-family: Helvetica;
+color: red}
+
+h1{font-size: 50px;
+margin: 0;}
+
+p{font-style: italic;}
+
+h2{color: blue;
+border-top: solid 1px grey}
+
+ol{border-bottom: solid 1px grey}
